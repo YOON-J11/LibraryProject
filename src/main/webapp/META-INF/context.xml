@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+  <!-- JNDI DataSource -->
+  <Resource
+      name="jdbc/library_project"
+      auth="Container"
+      type="javax.sql.DataSource"
+      driverClassName="com.mysql.cj.jdbc.Driver"
+      url="jdbc:mysql://jiwonserver2.mysql.database.azure.com:3306/library_project?useSSL=true&amp;requireSSL=false&amp;serverTimezone=Asia/Seoul&amp;allowPublicKeyRetrieval=true"
+      username="yjw5619"
+      password="wl184545W"
+      maxTotal="20"
+      maxIdle="10"
+      maxWaitMillis="10000"/>
+</Context>
