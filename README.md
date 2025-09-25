@@ -10,6 +10,9 @@ Java Servlet & JSP 기반의 도서관 사이트입니다.
 - **프로젝트명**: 도서관 웹 사이트  
 - **개발 기간**: 2025.04.23 ~ 2025.05.23 (1개월)  
 - **참여 인원**: 4명  
+- **배포 주소**: [https://library-app-jiwon.azurewebsites.net/view/main](https://library-app-jiwon.azurewebsites.net/view/main)
+
+👉 위 주소로 접속하면 실제 배포된 서비스를 바로 체험할 수 있습니다.
 
 ---
 
@@ -30,12 +33,21 @@ Java Servlet & JSP 기반의 도서관 사이트입니다.
 
 ### 🛢 Database
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+  - Azure MySQL Database를 이용하여 클라우드 환경에서 데이터 관리  
+  - 서버 배포 후에도 동일한 DB를 사용하도록 연동
+
+### ☁️ 클라우드 / 저장소
+  ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+  - **Azure Web App**으로 서버를 배포  
+  - **Azure Blob Storage**를 연동하여 게시글 첨부파일 및 배너 이미지를 클라우드에 저장  
+  - 서버와 스토리지를 분리하여 관리 및 성능 효율성 확보
 
 ### 🧰 개발 도구
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
   ![SQL Developer](https://img.shields.io/badge/SQL_Developer-0F4B7F?style=for-the-badge&logo=oracle&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
+---
 
 ## 📦 DB 구성
 
@@ -43,9 +55,7 @@ Java Servlet & JSP 기반의 도서관 사이트입니다.
 
 <img width="627" height="818" alt="image" src="https://github.com/user-attachments/assets/59f2c6ca-7330-44ed-8070-ec0446e75e7e" />
 
-
 ---
-
 
 ## 👩‍💻 담당 업무 (윤지원)
 
@@ -56,7 +66,6 @@ Java Servlet & JSP 기반의 도서관 사이트입니다.
 <img width="1652" height="1181" alt="image" src="https://github.com/user-attachments/assets/38a79f7a-9b48-46ff-9da2-cff73f25faa1" />
 <img width="1467" height="1177" alt="image" src="https://github.com/user-attachments/assets/a47a5ccb-edad-4bbe-b434-2dc1882d4208" />
 
-
 ---
 
 ### 📌 게시글 등록 / 수정 / 삭제 / 조회 기능 구현
@@ -64,17 +73,16 @@ Java Servlet & JSP 기반의 도서관 사이트입니다.
 <img width="1602" height="1196" alt="image" src="https://github.com/user-attachments/assets/3226c03c-41fc-4916-b057-171458a831ef" />
 <img width="1626" height="1156" alt="image" src="https://github.com/user-attachments/assets/c26de331-b043-42d5-8b8d-b7ffdb0422b1" />
 
-
 ---
 
 ### 📌 게시판별 리스트 & 상세 페이지 및 데이터 연동 처리
 <img width="1600" height="1154" alt="image" src="https://github.com/user-attachments/assets/01c81eea-2d26-40df-8787-7732d8276b84" />
 
-
 ---
 
 ### 📌 첨부파일 업로드 기능 구현  
-- 서버 디렉토리에 저장되는 구조로 설계
+- 서버 로컬 저장 대신 **Azure Blob Storage**에 저장되도록 구현  
+- 업로드된 파일은 공용 URL로 접근 가능하며, 게시글에서 다운로드 및 미리보기 지원
 
 ---
 
@@ -84,7 +92,8 @@ Java Servlet & JSP 기반의 도서관 사이트입니다.
 ---
 
 ### 📌 게시판용 테이블 설계 및 DB 연동  
-- MySQL 기반 테이블 설계 및 연동 처리
+- MySQL 기반 테이블 설계 및 CRUD 구현  
+- Azure MySQL Database를 사용하여 클라우드 환경에서 데이터 관리
 
 ---
 
@@ -98,6 +107,8 @@ Java Servlet & JSP 기반의 도서관 사이트입니다.
 팀원별 기능, DB 설계, 전체 흐름 등을 정리한 프로젝트 발표 자료입니다.  
 아래 버튼을 눌러 PDF 파일을 다운로드할 수 있습니다.
 
-[PDF 다운로드](https://github.com/YOON-J11/LibraryProject/blob/main/도서관프로젝트ppt.pdf?raw=1)
+[📥 PDF 다운로드](https://github.com/YOON-J11/LibraryProject/blob/main/도서관프로젝트ppt.pdf?raw=1)
 
+---
 
+✅ **배포된 웹사이트 보기:** [https://library-app-jiwon.azurewebsites.net/view/main](https://library-app-jiwon.azurewebsites.net/view/main)
