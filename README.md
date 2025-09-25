@@ -3,6 +3,9 @@
 Java Servlet & JSP 기반의 도서관 사이트입니다.  
 게시판 중심 기능을 포함하여 웹 애플리케이션의 주요 기능들을 직접 설계하고 구현하였습니다.
 
+<img width="2416" height="1794" alt="image" src="https://github.com/user-attachments/assets/7ce10769-0f55-4e15-bfa4-dd923135eae9" />
+
+
 ---
 
 ## 📝 프로젝트 개요
