@@ -14,7 +14,7 @@ Java Servlet & JSP 기반의 도서관 사이트입니다.
 - **프로젝트명**: 도서관 웹 사이트  
 - **개발 기간**: 2025.04.23 ~ 2025.05.23 (1개월)  
 - **참여 인원**: 4명  
-- 🌐 실제 서비스 링크: [https://cinemoa.yoonj11.site  ](https://library.yoonj11.site/view/main)
+- 🌐 실제 서비스 링크: https://library.yoonj11.site/view/main
 - ☁️ Azure App Service와 MySQL(Azure Database for MySQL)을 기반으로 **클라우드 환경에 배포**되어 있습니다.
 
 👉 위 주소로 접속하면 실제 배포된 서비스를 바로 체험할 수 있습니다.
