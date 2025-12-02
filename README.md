@@ -69,15 +69,15 @@ Java Servlet & JSP 기반의 도서관 사이트입니다.
 공지사항, 서평, 문의, 배너 게시판 등 전체 게시판 기능을 기획하고 구현하였습니다.
 
 <div style="border:4px solid #003366; display:inline-block; padding:4px;">
-  <img width="1720" height="1141" alt="image" src="https://github.com/user-attachments/assets/2a663397-e6c6-4b38-89e0-7704d62debbd" />
+  <img width="2262" height="1591" alt="image" src="https://github.com/user-attachments/assets/44604435-172a-41c8-948c-5815ecf84abe" />
 </div>
 
 <div style="border:4px solid #003366; display:inline-block; padding:4px;">
-  <img width="1652" height="1181" alt="image" src="https://github.com/user-attachments/assets/38a79f7a-9b48-46ff-9da2-cff73f25faa1" />
+  <img width="2690" height="3010" alt="image" src="https://github.com/user-attachments/assets/183b3162-fac6-47d5-bbf4-b3e9fb942cf7" />
 </div>
 
 <div style="border:4px solid #003366; display:inline-block; padding:4px;">
-  <img width="1467" height="1177" alt="image" src="https://github.com/user-attachments/assets/a47a5ccb-edad-4bbe-b434-2dc1882d4208" />
+  <img width="2313" height="1600" alt="image" src="https://github.com/user-attachments/assets/02cf254e-aa4e-4046-af94-987dd0e1f332" />
 </div>
 
 ---
@@ -85,11 +85,15 @@ Java Servlet & JSP 기반의 도서관 사이트입니다.
 ### 📌 게시글 등록 / 수정 / 삭제 / 조회 기능 구현
 
 <div style="border:4px solid #003366; display:inline-block; padding:4px;">
-  <img width="1602" height="1196" alt="image" src="https://github.com/user-attachments/assets/3226c03c-41fc-4916-b057-171458a831ef" />
+  <img width="1311" height="1305" alt="image" src="https://github.com/user-attachments/assets/69ac37ef-62b0-476d-b2f0-050c6b8b7dbe" />
 </div>
 
 <div style="border:4px solid #003366; display:inline-block; padding:4px;">
   <img width="1626" height="1156" alt="image" src="https://github.com/user-attachments/assets/c26de331-b043-42d5-8b8d-b7ffdb0422b1" />
+</div>
+
+<div style="border:4px solid #003366; display:inline-block; padding:4px;">
+  <img width="1263" height="1641" alt="image" src="https://github.com/user-attachments/assets/b2c821ce-dfb7-4c10-980d-1f96e0b1015e" />
 </div>
 
 ---
