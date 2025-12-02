@@ -58,7 +58,7 @@ Java Servlet & JSP 기반의 도서관 사이트입니다.
 아래는 프로젝트에서 사용된 데이터베이스 테이블 간 관계(ERD)입니다.
 
 <div style="border:4px solid #003366; display:inline-block; padding:4px;">
-  <img width="627" height="818" alt="image" src="https://github.com/user-attachments/assets/59f2c6ca-7330-44ed-8070-ec0446e75e7e" />
+  <img width="1236" height="965" alt="image" src="https://github.com/user-attachments/assets/216b9f76-128c-4d05-b6be-cbd2ee9fdc87" />
 </div>
 
 ---
