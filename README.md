@@ -89,10 +89,6 @@ Java Servlet & JSP 기반의 도서관 사이트입니다.
 </div>
 
 <div style="border:4px solid #003366; display:inline-block; padding:4px;">
-  <img width="1626" height="1156" alt="image" src="https://github.com/user-attachments/assets/c26de331-b043-42d5-8b8d-b7ffdb0422b1" />
-</div>
-
-<div style="border:4px solid #003366; display:inline-block; padding:4px;">
   <img width="1263" height="1641" alt="image" src="https://github.com/user-attachments/assets/b2c821ce-dfb7-4c10-980d-1f96e0b1015e" />
 </div>
 
@@ -100,9 +96,6 @@ Java Servlet & JSP 기반의 도서관 사이트입니다.
 
 ### 📌 게시판별 리스트 & 상세 페이지 및 데이터 연동 처리
 
-<div style="border:4px solid #003366; display:inline-block; padding:4px;">
-  <img width="1600" height="1154" alt="image" src="https://github.com/user-attachments/assets/01c81eea-2d26-40df-8787-7732d8276b84" />
-</div>
 
 ---
 
@@ -115,7 +108,7 @@ Java Servlet & JSP 기반의 도서관 사이트입니다.
 ### 📌 메인 페이지에 최신 게시글 5건 노출
 
 <div style="border:4px solid #003366; display:inline-block; padding:4px;">
-  <img width="1506" height="888" alt="image" src="https://github.com/user-attachments/assets/7b4c70a3-92f6-4a62-bf7b-48603dde9e0e" />
+ <img width="1433" height="499" alt="image" src="https://github.com/user-attachments/assets/58deaaef-7043-493c-9ad5-e5cd9f1dfc14" />
 </div>
 
 ---
@@ -140,4 +133,4 @@ Java Servlet & JSP 기반의 도서관 사이트입니다.
 
 ---
 
-✅ **배포된 웹사이트 보기:** [https://library-app-jiwon.azurewebsites.net/view/main](https://library-app-jiwon.azurewebsites.net/view/main)
+✅ **배포된 웹사이트 보기:**
