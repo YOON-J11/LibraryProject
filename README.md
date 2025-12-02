@@ -132,6 +132,5 @@ Java Servlet & JSP 기반의 도서관 사이트입니다.
 
 [📥 PDF 다운로드](https://github.com/YOON-J11/LibraryProject/blob/main/도서관프로젝트ppt.pdf?raw=1)
 
----
 
-✅ **배포된 웹사이트 보기:**
+
